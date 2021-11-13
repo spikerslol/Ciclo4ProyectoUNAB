@@ -10,3 +10,4 @@
 | 3 	| Sabrina Acero 	    |Implementador	| Gestion de Clientes         	|
 | 4 	| Yelizath Mier      	|Diseñador	| Gestion de Contenido          |
 | 5 	| Juliana Avendaño   	|Diseñador	| Gestion de Productos    	|
+| 6 	| Nathalia Castro   	|Diseñador	| Gestion de Estadísticas    	|
